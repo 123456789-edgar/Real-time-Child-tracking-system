@@ -1,0 +1,2 @@
+# Real-time-Child-tracking-system
+A real time based system built on  open source software and hardwares that do enhance parents/guardians to locate their kids over the world wide web via an implanted prototype device on their children.
