@@ -26,6 +26,5 @@ The system resources can be purchased or downloaded from the following links:
 6. Fritzing - https://fritzing.org/download/
 7. Sublime Text - https://www.sublimetext.com/download 
 
-The images of the specific needed hardware components are as shown below:
 
 
