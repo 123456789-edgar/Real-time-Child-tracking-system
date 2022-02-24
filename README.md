@@ -15,3 +15,12 @@ Instructions on how to load the files into your server or system.
 - Arduino IDE - for running the arduino codes and uploading them to the Arduino Uno
 - Sublime-Text - For manipulating the web side php and css codes.
 - Fritzing - For schematic drawings and sketching of the connections in your project documentation.
+
+The system resources can be purchased or downloaded from the following links:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
