@@ -26,8 +26,9 @@ The system resources can be purchased or downloaded from the following links:
 3. Gps module https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20220223233713&SearchText=gps+module+gy-neo6mv2
 4. Connecting wires https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20220223233904&SearchText=jumper+wire+40pcs+dupont+line
 5. Arduino Ide - https://www.arduino.cc/en/software/
-6. Fritzing - https://fritzing.org/download/ or VS Code : Manage Extensions and add Draw.io extension
-7. Sublime Text - https://www.sublimetext.com/download 
+6. Fritzing - https://fritzing.org/download/ or VS Code: Manage Extensions and add Draw.io extension
+7. Sublime Text - https://www.sublimetext.com/download
+8. Visual Studio Code - https://code.visualstudio.com/download
 
 
 
