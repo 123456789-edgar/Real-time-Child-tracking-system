@@ -7,8 +7,8 @@
 
 //Internet connectivity to the WiFi shield
 
-char ssid[] = "KABU";        // Network SSID (name) 
-char pass[] = " ";    // Network Password (use for WPA, 
+char ssid[] = "...";        // Network SSID (name) 
+char pass[] = "...";    // Network Password (use for WPA, 
                                   // or use as the key for WEP)
 
 int keyIndex = 0;                 // Network Key Index Number 
