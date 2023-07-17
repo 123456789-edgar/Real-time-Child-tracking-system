@@ -171,7 +171,7 @@ void transmitSensorData(float latitude, float longitude)
       Serial.println("[INFO] Server Connected - HTTP GET Started");
        
       // Make a HTTP request:
-      client.println("GET /C:/Users/Edgar Mokua Moturi/Desktop/1/gpstracker/update.php" + requestData + 
+      client.println("GET /path location here" + requestData + 
                                                               " HTTP/1.1");
       client.println("Host: " + String(server));
       client.println("Connection: close");
