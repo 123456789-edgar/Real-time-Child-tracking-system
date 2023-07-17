@@ -12,6 +12,7 @@ The necessary hardware components for the project are as follows:
 - Arduino Wireless Wifi Shield
 - Connecting wires or jumper cables
 - GPS module and its accompanying antenna
+  
 As for software, the recommended options are:
 
 - Arduino IDE: Used for executing and uploading the Arduino codes to the Arduino Uno board.
