@@ -1,4 +1,4 @@
-//External Libraries.
+//Importing Libraries.
  
 #include <SPI.h>
 #include <WiFi.h>
@@ -9,7 +9,7 @@
 
 char ssid[] = "KABU";        // Network SSID (name) 
 char pass[] = " ";    // Network Password (use for WPA, 
-                                  // or use as key for WEP)
+                                  // or use as the key for WEP)
 
 int keyIndex = 0;                 // Network Key Index Number 
                                   // (needed only for WEP)
@@ -142,7 +142,7 @@ void getGPSCoordinates()
 
 //IP address of the server
 char server[] = {"http://localhost/gpstracker/"};
-int port = 3306; //the operation port for mysql on the xampp server
+int port = 3306; //the operation port for MySQL on the xampp server
 
 unsigned long lastConnectionTime = 0;
 const unsigned long postingInterval = 10L * 1000L;
