@@ -14,7 +14,7 @@
      	<input type="text" name="uname" placeholder="e.g Edgar Mokua"><br>
 
      	<label>Child's Name</label>
-     	<input type="password" name="password" placeholder="e.g James Rono"><br>
+     	<input type="password" name="password"><br>
 
      	<button type="submit">Login</button>
      </form>
